@@ -3,6 +3,8 @@ public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		
+		// se agrega esto en la clase principal
 
 		Autos auto1 = new Autos(6942651l, "Nissan", "versa", 6354651.241f);
 		Autos auto2 = new Autos(6354651l, "Nissan", "Jetta", 541241.5654f);
